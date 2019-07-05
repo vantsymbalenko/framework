@@ -1,0 +1,5 @@
+export { component } from './component-builder/componentHelpers'
+export { ComponentRegistry } from './component-builder/Components/ComponentRegistry'
+export { DatasourceRegistry } from './component-builder/DataSource/DatasourceRegistry'
+export { TransfromerRegistry } from './component-builder/Transformers/TransformerRegistry'
+export { ValueValidatorRegistry } from './component-builder/Validators/ValueValidatorRegistry'
